@@ -18,7 +18,7 @@ Technologies used in the project.
 2. Change the directory within "vite-project" using the following bash command.
 
 ```bash
-git clone https://github.com/PKalyanReddy/Declaration-DevOps_032.git
+git clone https://github.com/ShaikFaheemuddin789/React_Todo-Application.git
 cd ./React_Todo-Application/vite-project
 npm install
 npm run dev
